@@ -1,7 +1,7 @@
 ## Bot-Framework-Links
 Usefull Links to build a Bot for Microsoft Teams
 
-| First Header  | Second Header |
+| Link  | Description |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |

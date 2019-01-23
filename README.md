@@ -9,7 +9,7 @@ Usefull Links to build a Bot for Microsoft Teams
 | [JS/C#](https://docs.microsoft.com/pt-br/azure/bot-service/bot-builder-authentication?view=azure-bot-service-4.0&tabs=javascript)  | Adicionar autenticação ao seu bot por meio do Serviço de Bot do Azure (Azure AD v1/Azure AD v2)] |
 | [JS](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-nodejs-app-studio)  | Get started on the Microsoft Teams platform with Node.js and App Studio  |
 | [JSON](https://acdesignerbeta.azurewebsites.net/)  | Adaptive Cards - Editor  |
-| [JS](https://github.com/SharePoint/PnP/tree/master/Solutions/O365.Modern.Provisioning/VeronicaBot
+| [JS](https://github.com/SharePoint/PnP/tree/master/Solutions/O365.Modern.Provisioning/VeronicaBot)
 )  | Veronica BOT  |
 | (Tokens)][https://stackoverflow.com/questions/45852984/azure-ad-token-endpoint-doesnt-return-an-access-token-just-an-id-token-and-a-r
 ]  | Token Request (Refresh & Acess Token)  |
